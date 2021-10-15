@@ -54,9 +54,9 @@ React Crypto App using Coingecko API
    ```sh
    npm install
    ```
-3. Install NPM packages
+3. Run the project
    ```sh
-   npm install
+   npm start
    ```
 
 
