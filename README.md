@@ -10,23 +10,20 @@ React Crypto App using Coingecko API
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KP-MIT/react-Crypto-App">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center"> Java Eneterprise Edition Exercises </h3>
+<h3 align="center"> Crypto Scout </h3>
 
   <p align="center">
-    Sample Java EE Apps using Eclipse IDE.
+     Using React.
     <br />
-    <a href="https://github.com/KP-MIT/Java-EE-practice-applications"><strong> Explore the docs »</strong></a>
+    <a href="https://github.com/KP-MIT/react-Crypto-App"><strong> Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KP-MIT/Java-EE-practice-applications"> View Demo </a>
+    <a href="https://github.com/KP-MIT/react-Crypto-App"> View Demo </a>
     ·
-    <a href="https://github.com/KP-MIT/Java-EE-practice-applications"> Report Bug </a>
+    <a href="https://github.com/KP-MIT/react-Crypto-App"> Report Bug </a>
     ·
-    <a href="https://github.com/KP-MIT/Java-EE-practice-applications"> Request Feature </a>
+    <a href="https://github.com/KP-MIT/react-Crypto-App"> Request Feature </a>
   </p>
 </div>
 
