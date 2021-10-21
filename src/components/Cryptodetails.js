@@ -85,7 +85,7 @@ const Cryptodetails = () => {
           
         </Row>
         <Space>
-            <Link to="/"> Show less </Link>
+            <Link to="/React-Crypto-App/"> Show less </Link>
         </Space>
     </div>
   );
