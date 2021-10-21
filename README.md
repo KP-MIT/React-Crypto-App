@@ -19,7 +19,7 @@ React Crypto App using Coingecko API
     <a href="https://github.com/KP-MIT/react-Crypto-App"><strong> Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/KP-MIT/react-Crypto-App"> View Demo </a>
+    <a href="https://kp-mit.github.io/React-Crypto-App/"> View Demo </a>
     ·
     <a href="https://github.com/KP-MIT/react-Crypto-App"> Report Bug </a>
     ·
