@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/React-Crypto-App/static/css/main.a9b67a56.chunk.css",
-    "main.js": "/React-Crypto-App/static/js/main.aedf3302.chunk.js",
-    "main.js.map": "/React-Crypto-App/static/js/main.aedf3302.chunk.js.map",
+    "main.css": "/React-Crypto-App/static/css/main.f5fc8d58.chunk.css",
+    "main.js": "/React-Crypto-App/static/js/main.ab8cf8e4.chunk.js",
+    "main.js.map": "/React-Crypto-App/static/js/main.ab8cf8e4.chunk.js.map",
     "runtime-main.js": "/React-Crypto-App/static/js/runtime-main.6c084b5a.js",
     "runtime-main.js.map": "/React-Crypto-App/static/js/runtime-main.6c084b5a.js.map",
     "static/css/2.da8127bb.chunk.css": "/React-Crypto-App/static/css/2.da8127bb.chunk.css",
-    "static/js/2.a41ff822.chunk.js": "/React-Crypto-App/static/js/2.a41ff822.chunk.js",
-    "static/js/2.a41ff822.chunk.js.map": "/React-Crypto-App/static/js/2.a41ff822.chunk.js.map",
+    "static/js/2.bfa60d28.chunk.js": "/React-Crypto-App/static/js/2.bfa60d28.chunk.js",
+    "static/js/2.bfa60d28.chunk.js.map": "/React-Crypto-App/static/js/2.bfa60d28.chunk.js.map",
     "index.html": "/React-Crypto-App/index.html",
-    "precache-manifest.233ad06273c885981c3db4b6e7f8cb40.js": "/React-Crypto-App/precache-manifest.233ad06273c885981c3db4b6e7f8cb40.js",
+    "precache-manifest.8c8286e6a250bb20e53fcd6e66e29bdc.js": "/React-Crypto-App/precache-manifest.8c8286e6a250bb20e53fcd6e66e29bdc.js",
     "service-worker.js": "/React-Crypto-App/service-worker.js",
     "static/css/2.da8127bb.chunk.css.map": "/React-Crypto-App/static/css/2.da8127bb.chunk.css.map",
-    "static/css/main.a9b67a56.chunk.css.map": "/React-Crypto-App/static/css/main.a9b67a56.chunk.css.map",
-    "static/js/2.a41ff822.chunk.js.LICENSE.txt": "/React-Crypto-App/static/js/2.a41ff822.chunk.js.LICENSE.txt"
+    "static/css/main.f5fc8d58.chunk.css.map": "/React-Crypto-App/static/css/main.f5fc8d58.chunk.css.map",
+    "static/js/2.bfa60d28.chunk.js.LICENSE.txt": "/React-Crypto-App/static/js/2.bfa60d28.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6c084b5a.js",
     "static/css/2.da8127bb.chunk.css",
-    "static/js/2.a41ff822.chunk.js",
-    "static/css/main.a9b67a56.chunk.css",
-    "static/js/main.aedf3302.chunk.js"
+    "static/js/2.bfa60d28.chunk.js",
+    "static/css/main.f5fc8d58.chunk.css",
+    "static/js/main.ab8cf8e4.chunk.js"
   ]
 }
